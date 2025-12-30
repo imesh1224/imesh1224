@@ -4,6 +4,8 @@
 
 ### Full Stack Web Developer | MERN Stack Specialist
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imesh1224)](https://github.com/imesh1224/github-readme-stats)
+
 <p>
   <a href="https://YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
