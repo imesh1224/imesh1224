@@ -104,7 +104,7 @@ I'm always open to collaborating on interesting projects and discussing new oppo
 
 **📧 Email:** YOUR_EMAIL@example.com  
 **🌐 Portfolio:** [your-portfolio.com](https://YOUR_PORTFOLIO_URL)  
-**💼 LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/YOUR_LINKEDIN)
+**💼 LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/imesh-nadun-88832a394)
 
 </div>
 
