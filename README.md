@@ -5,10 +5,10 @@
 ### Full Stack Web Developer | MERN Stack Specialist
 
 <p>
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <a href="https://imesh-nadun-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/imesh-nadun-88832a394">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
