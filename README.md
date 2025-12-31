@@ -92,7 +92,7 @@ I'm a passionate **Full Stack Web Developer** from **Sri Lanka** 🇱🇰, speci
 
 </div>
 
-> 💡 *Check out my [repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories) for more projects!*
+> 💡 *Check out my [repositories](https://github.com/imesh1224?tab=repositories) for more projects!*
 
 ---
 
@@ -102,7 +102,6 @@ I'm a passionate **Full Stack Web Developer** from **Sri Lanka** 🇱🇰, speci
 
 I'm always open to collaborating on interesting projects and discussing new opportunities.
 
-**📧 Email:** YOUR_EMAIL@example.com  
 **🌐 Portfolio:** [https://imesh-nadun-portfolio.vercel.app/](https://imesh-nadun-portfolio.vercel.app/)  
 **💼 LinkedIn:** [www.linkedin.com/in/imesh-nadun-88832a394](www.linkedin.com/in/imesh-nadun-88832a394)
 
