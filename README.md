@@ -86,9 +86,9 @@ I'm a passionate **Full Stack Web Developer** from **Sri Lanka** 🇱🇰, speci
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Project Name 1** | Brief description of what this project does and the problem it solves. | React, Node.js, MongoDB |
-| **Project Name 2** | Brief description of what this project does and the problem it solves. | Next.js, Express, Tailwind |
-| **Project Name 3** | Brief description of what this project does and the problem it solves. | MERN Stack, AI Integration |
+| **ShopCart** | E-Commerce Web Application. | MERN Stack, Next.js, Sanity, Clerk |
+| **BuYme** | Food Delivery Web Application. | Rect, Node.js, Tailwind |
+| **LankaBite** | Food Delivery Mobile Application | Java, Firebase, Google map SDK |
 
 </div>
 
@@ -103,7 +103,7 @@ I'm a passionate **Full Stack Web Developer** from **Sri Lanka** 🇱🇰, speci
 I'm always open to collaborating on interesting projects and discussing new opportunities.
 
 **📧 Email:** YOUR_EMAIL@example.com  
-**🌐 Portfolio:** [your-portfolio.com](https://YOUR_PORTFOLIO_URL)  
+**🌐 Portfolio:** [https://imesh-nadun-portfolio.vercel.app/](https://imesh-nadun-portfolio.vercel.app/)  
 **💼 LinkedIn:** [www.linkedin.com/in/imesh-nadun-88832a394](www.linkedin.com/in/imesh-nadun-88832a394)
 
 </div>
